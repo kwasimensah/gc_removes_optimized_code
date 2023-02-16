@@ -1,0 +1,1 @@
+node --expose-gc --trace-deopt --trace-opt optimized_code.js 
